@@ -1,3 +1,5 @@
+
+#!!! Code is not explained with comments but it's easy to understand bcz there is no complexity in the code it's realy simple to read and understand.  :-)
 import pygame
 from pygame import rect
 import time
